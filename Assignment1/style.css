@@ -1,0 +1,52 @@
+h1{
+  color: red;
+
+}
+
+h2{
+  color: rgb(6, 236, 6);
+  font-style: italic;
+}
+
+del{
+   text-decoration: line-through;
+   
+}
+
+span{
+  background-color: yellow;
+  font-weight: bold;
+}
+
+.style2{
+   text-decoration:underline;
+   font-style: italic;
+  
+}
+
+ul{
+  letter-spacing:5px;
+  color: brown;
+}
+
+h3{
+  color: brown;
+  font-weight: normal;
+}
+
+.p1{
+  font-size: 0.5rem;
+  color: brown;
+}
+
+.p2{
+  color: brown;
+  font-style: italic;
+}
+
+a{
+  color: brown;
+  text-decoration: none;
+  background-color: yellow;
+  
+}
