@@ -1,0 +1,191 @@
+.main{
+  background-image:url(./image.png) ;
+  height: 2200px;
+  width: 100%;
+  background-size: cover;
+  border: 10px solid greenyellow;
+  border-radius: 10px;
+}
+
+.heading{
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.heading1{
+  height: 150px;
+  width: 350px;
+  background-color: black;
+  border: 8px solid red;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.heading2{
+  height: 80px;
+  width: 580px;
+  background-color: black;
+  border: 8px solid red;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+ 
+}
+
+.head2{
+  margin-top: 50px;
+  margin-bottom: 10px;
+   font-style: italic;
+  font-weight:lighter;
+}
+
+.heading3{
+  height: 150px;
+  width: 350px;
+  background-color: black;
+  border: 8px solid red;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+  
+}
+.h3{
+  font-style: italic;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.middle{
+  height:900px;
+  width: 100%;
+  display: flex;
+  
+}
+
+.offers{
+  height: 430px;
+  width: 430px;
+  background-color: rgb(101, 166, 166);
+  border:8px solid gray;
+  border-radius: 50%;
+  margin-top: 200px;
+  
+}
+
+.p1{
+  margin-left: 110px;
+  margin-top: 100px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.p2{
+  margin-left: 20px;
+  margin-top: 20px;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.form{
+  height: 850px;
+  width: 450px;
+  border: 6px dashed red;
+  display: flex;
+  
+}
+
+.form-h1{
+  text-align: center;
+
+  font-weight: bold;
+  color: rgb(209, 239, 13);
+}
+
+.form-data{
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.hr1{
+
+  width: 114%;
+  align-items: center;
+  margin-left: -30px;
+  
+}
+
+  label{
+    color: yellow;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+
+  .menu-titel{
+     height: 100px;
+    width: 500px;
+    border-radius: 30px;
+    margin-left: 500px; 
+    background-color: black;
+    border: 5px solid red;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+  }
+  
+
+  .menu{
+   height: 500px;
+   width:   100%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+  
+   
+  }
+
+  .menu1{
+    height: 270px;
+    width: 27%;
+    background-color: aqua;
+    border: 2px solid black;
+    color: rgb(1, 1, 99);
+   margin-top: 80px;
+   border-radius: 40px;
+   font-size:1.2rem;
+   font-weight: bold;
+   
+  }
+
+  .menu1 h1{
+    text-align: center;
+  }
+    
+  .menu1 hr{
+    width: 100%;
+  
+  }
+
+  .menu1 li{
+    font-size: 1.1rem;
+    font-weight: 550;
+    types: disc;
+    margin-left: 110px;
+    text-decoration: none;
+  }
