@@ -3,9 +3,9 @@
 This assignment focuses on using different CSS display properties to control the layout and behavior of HTML elements.
 
 ## 📁 Project Files
-index.html – Contains the basic HTML structure
+- index.html – Contains the basic HTML structure
 
-style.css – Contains all the CSS styling using various display properties
+- style.css – Contains all the CSS styling using various display properties
 
 ## 🎯 Features
 
