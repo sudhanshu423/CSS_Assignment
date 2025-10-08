@@ -11,36 +11,36 @@ This assignment focuses on using different CSS display properties to control the
 
 This project demonstrates the use of the following CSS display properties:
 
-display: block
+- display: block
 
-display: inline
+- display: inline
 
-display: inline-block
+- display: inline-block
 
-display: none
+- display: none
 
-display: flex
+- display: flex
 
-display: grid
+- display: grid
 
 ## Features:
-Layouts created using Flexbox
+1.Layouts created using Flexbox
 
-Basic CSS Grid layout
+2. Basic CSS Grid layout
 
-Clean, readable, and well-commented code
+3.Clean, readable, and well-commented code
 
-Optional enhancements: hover effects or responsive design
+4.Optional enhancements: hover effects or responsive design
 
 ## 📘 Learnings
-The default display behavior of HTML elements
+- The default display behavior of HTML elements
 
-The differences between block, inline, and inline-block
+- The differences between block, inline, and inline-block
 
-How to create responsive layouts using Flexbox
+- How to create responsive layouts using Flexbox
 
-How to build grid-based designs using CSS Grid
+- How to build grid-based designs using CSS Grid
 
-How display: none hides elements from the layout
+- How display: none hides elements from the layout
 
-Practical layout skills for real-world web design
+- Practical layout skills for real-world web design
