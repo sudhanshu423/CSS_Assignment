@@ -4,9 +4,9 @@ This assignment focuses on creating a complete web page using HTML for structure
 
 ## 📁 Project Files
 
-- index.html – Contains the HTML structure of the webpage
+- index.html: Contains the HTML structure of the webpage
 
-- style.css – Contains CSS styles for layout, colors, fonts, spacing, and more
+- style.css: Contains CSS styles for layout, colors, fonts, spacing, and more
 
 ## 🎯 Features
 ### ✅ HTML Elements Used:
