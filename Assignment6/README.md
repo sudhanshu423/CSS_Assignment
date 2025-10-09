@@ -11,11 +11,11 @@ This assignment focuses on creating a complete web page using HTML for structure
 ## 🎯 Features
 ### ✅ HTML Elements Used:
 
-- <!DOCTYPE html>, <html>, <head>, <body>
+- <!DOCTYPE html>, html, head, body
 
-- Semantic elements like <header>, <nav>, <main>, <section>, <article>, <footer>
+- Semantic elements like header, nav, main, section, article, footer
 
-- Common tags: <h1> to <h6>, <p>, <a>, <img>, <ul>, <li>, <div>, etc.
+- Common tags: h1 to h6, p,a, img, ul, li, div, etc.
 
 ### ✅ CSS Concepts Applied:
 
