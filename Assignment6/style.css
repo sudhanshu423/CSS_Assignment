@@ -1,0 +1,197 @@
+body {
+  background-image: url(./images/shara\ desert.jpg);
+  height: 1200px;
+  width: 100%;
+  background-size: cover;
+}
+
+.header {
+  height: 200px;
+  width: 100%;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  background-image: url(./images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+  margin: 70px 150px;
+}
+
+.nav-item {
+  margin: 80px;
+  margin-right: 200px;
+  display: flex;
+}
+.nav-item a {
+  color: white;
+  font-size: 2rem;
+  margin-right: 50px;
+  text-decoration: none;
+}
+
+.icon {
+  background-image: url(./images/menu.png);
+  height: 60px;
+  width: 60px;
+  margin-top: -10px;
+  background-color: gray;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+}
+
+.left {
+  height: 400px;
+  width: 100%;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+.left h1 {
+  color: white;
+  font-size: 13rem;
+  margin-bottom: 0px;
+}
+
+.left p {
+  color: white;
+  margin-top: 0px;
+  font-size: 2.2rem;
+  margin-bottom: 0px;
+}
+
+button {
+  width: 300px;
+  height: 70px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  border-radius: 30px;
+  border: none;
+  margin-top: 50px;
+}
+
+button:hover {
+  background-color: rgb(200, 199, 199);
+}
+
+.right {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+}
+
+.card1 {
+  background-image: url(./images/pic-1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 40%;
+  margin: 30px 25px;
+  border-radius: 30px;
+  transition-duration: 1s;
+}
+
+.card1 h4 {
+  font-size: 2.2rem;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.card1 p {
+  font-size: 1.6rem;
+  margin-left: 10px;
+  color: black;
+  font-weight: 600;
+}
+
+.card2 {
+  background-image: url(./images/pic-2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 40%;
+  margin: 30px 25px;
+  border-radius: 30px;
+  transition-duration: 1s;
+}
+
+.card2 h4 {
+  font-size: 2.2rem;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.card2 p {
+  font-size: 1.6rem;
+  margin-left: 10px;
+  color: black;
+  font-weight: 600;
+}
+
+.card3 {
+  background-image: url(./images/pic-3.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 40%;
+  margin: 30px 25px;
+  border-radius: 30px;
+  transition-duration: 1s;
+}
+
+.card3 h4 {
+  font-size: 2.2rem;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.card3 p {
+  font-size: 1.6rem;
+  margin-left: 10px;
+  color: black;
+  font-weight: 600;
+}
+
+.card4 {
+  background-image: url(./images/pic-4.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+  width: 40%;
+  margin: 30px 25px;
+  border-radius: 30px;
+  transition-duration: 1s;
+}
+
+.card4 h4 {
+  font-size: 2.2rem;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color: black;
+}
+
+.card4 p {
+  font-size: 1.6rem;
+  margin-left: 10px;
+  color: black;
+  font-weight: 600;
+}
+
+.card:hover {
+  transform: translateY(-30px);
+}
