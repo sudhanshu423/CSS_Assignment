@@ -1,12 +1,12 @@
 body {
   background-image: url(./images/shara\ desert.jpg);
-  height: 1200px;
+  height: 600px;
   width: 100%;
   background-size: cover;
 }
 
 .header {
-  height: 200px;
+  height: 100px;
   width: 100%;
 }
 .nav {
@@ -18,28 +18,28 @@ body {
   background-image: url(./images/logo.png);
   background-size: contain;
   background-repeat: no-repeat;
-  height: 100px;
-  width: 100px;
-  margin: 70px 150px;
+  height: 50px;
+  width: 50px;
+  margin: 30px 80px;
 }
 
 .nav-item {
-  margin: 80px;
-  margin-right: 200px;
+  margin: 40px;
+  margin-right: 125px;
   display: flex;
 }
 .nav-item a {
   color: white;
-  font-size: 2rem;
-  margin-right: 50px;
+  font-size: 1rem;
+  margin-right: 25px;
   text-decoration: none;
 }
 
 .icon {
   background-image: url(./images/menu.png);
-  height: 60px;
-  width: 60px;
-  margin-top: -10px;
+  height: 30px;
+  width: 30px;
+  margin-top: -5px;
   background-color: gray;
   background-size: contain;
   background-repeat: no-repeat;
@@ -52,33 +52,33 @@ body {
 }
 
 .left {
-  height: 400px;
+  height: 200px;
   width: 100%;
-  margin-left: 150px;
-  margin-top: 100px;
+  margin-left: 75px;
+  margin-top: 50px;
 }
 
 .left h1 {
   color: white;
-  font-size: 13rem;
+  font-size: 6.3rem;
   margin-bottom: 0px;
 }
 
 .left p {
   color: white;
   margin-top: 0px;
-  font-size: 2.2rem;
+  font-size: 1rem;
   margin-bottom: 0px;
 }
 
 button {
-  width: 300px;
-  height: 70px;
-  font-size: 1.6rem;
+  width: 150px;
+  height: 35px;
+  font-size: 0.85rem;
   font-weight: bold;
   border-radius: 30px;
   border: none;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 button:hover {
@@ -89,29 +89,30 @@ button:hover {
   color: white;
   display: flex;
   flex-wrap: wrap;
-  width: 50%;
+  width: 55%;
+  margin-right: 25px;
 }
 
 .card1 {
   background-image: url(./images/pic-1.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
-  width: 40%;
-  margin: 30px 25px;
+  height: 250px;
+  width: 38%;
+  margin: 15px 10px;
   border-radius: 30px;
   transition-duration: 1s;
 }
 
 .card1 h4 {
-  font-size: 2.2rem;
+  font-size: 1.1rem;
   margin-left: 10px;
   margin-bottom: 0px;
   color: black;
 }
 
 .card1 p {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   margin-left: 10px;
   color: black;
   font-weight: 600;
@@ -121,22 +122,22 @@ button:hover {
   background-image: url(./images/pic-2.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
-  width: 40%;
-  margin: 30px 25px;
+  height: 250px;
+  width: 38%;
+  margin: 15px 10px;
   border-radius: 30px;
   transition-duration: 1s;
 }
 
 .card2 h4 {
-  font-size: 2.2rem;
+  font-size: 1.1rem;
   margin-left: 10px;
   margin-bottom: 0px;
   color: black;
 }
 
 .card2 p {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   margin-left: 10px;
   color: black;
   font-weight: 600;
@@ -146,22 +147,22 @@ button:hover {
   background-image: url(./images/pic-3.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
-  width: 40%;
-  margin: 30px 25px;
+  height: 250px;
+  width: 38%;
+  margin: 15px 10px;
   border-radius: 30px;
   transition-duration: 1s;
 }
 
 .card3 h4 {
-  font-size: 2.2rem;
+  font-size: 1.1rem;
   margin-left: 10px;
   margin-bottom: 0px;
   color: black;
 }
 
 .card3 p {
-  font-size: 1.6rem;
+  font-size: 0.8rem;
   margin-left: 10px;
   color: black;
   font-weight: 600;
@@ -171,15 +172,15 @@ button:hover {
   background-image: url(./images/pic-4.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
-  width: 40%;
-  margin: 30px 25px;
+  height: 250px;
+  width: 38%;
+  margin: 15px 10px;
   border-radius: 30px;
   transition-duration: 1s;
 }
 
 .card4 h4 {
-  font-size: 2.2rem;
+  font-size: 1.1rem;
   margin-left: 10px;
   margin-bottom: 0px;
   color: black;
@@ -193,5 +194,5 @@ button:hover {
 }
 
 .card:hover {
-  transform: translateY(-30px);
+  transform: translateY(-20px);
 }
